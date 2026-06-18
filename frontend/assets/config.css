@@ -1,0 +1,7 @@
+:root {
+    --box-border: #9446FF;
+    --box-shadow: rgba(148, 70, 255, 0.42);
+
+    --btn-decline-border: #FF292D;
+    --btn-decline-shadow: rgba(255, 41, 45, 0.42);
+}
